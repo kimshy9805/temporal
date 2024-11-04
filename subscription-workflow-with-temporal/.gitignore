@@ -1,0 +1,19 @@
+/node_modules
+/dist
+_old
+.DS_Store
+
+# jetbrains IDE
+*.iml
+.idea
+
+.vscode/*
+
+dev-secrets.json
+infra-secrets.json
+bookipay-dev-secrets.json
+
+.npmrc
+.eslintcache
+.env
+.turbo
